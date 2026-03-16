@@ -1,7 +1,7 @@
 console.log("NEW staff-data.js loaded");
 
 const staff = {
-  uchechukwu: {
+  victor: {
     name: "Victor Akwukwuma",
     position: "IT Support Specialist",
     company: "Pathway Holdings Limited",

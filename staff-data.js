@@ -79,15 +79,15 @@ const staff = {
     vcf: "oladeinde.vcf"
   },
 
-  jane: {
-    name: "Jane Edeh",
-    position: "Human Resources",
-    company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "jane@pathway.ng",
-    phone: "2348062365159",
-    photo: "images/jane.png",
-    vcf: "jane.vcf"
+  idris: {
+    name: "Idris Busari",
+    position: "Investment Banking",
+    company: "Pathway Advisors Limited",
+    website: "https://pathwayadvisorsng.com",
+    email: "idris@pathway.ng",
+    phone: "2348026886728",
+    photo: "images/idris.png",
+    vcf: "idris.vcf"
   },
 
   sanmi: {

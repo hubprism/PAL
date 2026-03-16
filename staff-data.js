@@ -3,7 +3,7 @@ console.log("NEW staff-data.js loaded");
 const staff = {
   victor: {
     name: "Victor Akwukwuma",
-    position: "IT Support Specialist",
+    position: "Team Lead, Investment Banking",
     company: "Pathway Advisors Limited",
     website: "https://pathwayadvisorsng.com",
     email: "victor@pathway.ng",
@@ -12,16 +12,17 @@ const staff = {
     vcf: "victor.vcf"
   },
 
-  taiwo: {
-    name: "Taiwo Akinsade",
-    position: "Senior IT Specialist",
-    company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "taiwo@pathway.ng",
-    phone: "2348022485657",
-    photo: "images/taiwo.png",
-    vcf: "taiwo.vcf"
-  },
+  gloria: {
+  name: "Gloria Adelaiye",
+  position: "Investment Banking Trainee",
+  company: "Pathway Advisors Limited",
+  website: "https://pathwayadvisorsng.com",
+  email: "gloria@pathway.ng",
+  phone: "23489076133180",
+  photo: "images/gloria.png",
+  vcf: "gloria.vcf"
+},
+
 
   ajibola: {
     name: "Ajibola Adekoya",

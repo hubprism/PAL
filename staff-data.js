@@ -46,15 +46,15 @@ const staff = {
     vcf: "babara.vcf"
   },
 
-  blessing: {
-    name: "Blessing Okoro",
-    position: "Receptionist",
-    company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "blessing@pathway.ng",
-    phone: "2348126996043",
-    photo: "images/blessing.png",
-    vcf: "blessing.vcf"
+  deborah: {
+    name: "Deborah Osuji",
+    position: "Investment Banking Trainee,
+    company: "Pathway Advisors Limited",
+    website: "https://pathwayadvisorsng.com",
+    email: "deborah@pathway.ng",
+    phone: "2349058576335",
+    photo: "images/deborah.png",
+    vcf: "deborah.vcf"
   },
 
   osayi: {

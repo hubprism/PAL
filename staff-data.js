@@ -90,15 +90,15 @@ const staff = {
     vcf: "idris.vcf"
   },
 
-  sanmi: {
-    name: "Sanmi Ikuemonisan",
-    position: "Admin Officer",
-    company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "sanmi@pathway.ng",
-    phone: "2348166322131",
-    photo: "images/sanmi.png",
-    vcf: "sanmi.vcf"
+  opeyemi: {
+    name: "Opeyemi Akanbi",
+    position: "Investment Banking",
+    company: "Pathway Advisors Limited",
+    website: "https://pathwayadvisorsng.com",
+    email: "opeyemi@pathway.ng",
+    phone: "2348026886728",
+    photo: "images/opeyemi.png",
+    vcf: "opeyemi.vcf"
   },
 
   kunle: {

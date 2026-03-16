@@ -57,26 +57,26 @@ const staff = {
     vcf: "deborah.vcf"
   },
 
-  osayi: {
-    name: "Osayi Uuzebor",
-    position: "Human Resources Manager",
-    company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "osayig@pathway.ng",
-    phone: "2348036157842",
-    photo: "images/Osayi.png",
-    vcf: "osayi.vcf"
+  tochukwu: {
+    name: "Tochukwu Collins",
+    position: "Investment Banking",
+    company: "Pathway Advisors Limited",
+    website: "https://pathwayadvisorsng.com",
+    email: "tochukwu@pathway.ng",
+    phone: "2348064260278",
+    photo: "images/tochukwu.png",
+    vcf: "tochukwu.vcf"
   },
 
-  esther: {
-    name: "Esther Aver",
-    position: "Human Resources",
-    company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "estherg@pathway.ng",
-    phone: "2348118216229",
-    photo: "images/esther.png",
-    vcf: "esther.vcf"
+  oladeinde: {
+    name: "Oladeinde Ghanni",
+    position: "Investment Banking",
+    company: "Pathway Advisors Limited",
+    website: "https://pathwayadvisorsng.com",
+    email: "oladeinde@pathway.ng",
+    phone: "2348068440443",
+    photo: "images/oladeinde.png",
+    vcf: "oladeinde.vcf"
   },
 
   jane: {

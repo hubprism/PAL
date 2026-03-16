@@ -2,13 +2,13 @@ console.log("NEW staff-data.js loaded");
 
 const staff = {
   uchechukwu: {
-    name: "Uchechukwu Nwogu",
+    name: "Victor Akwukwuma",
     position: "IT Support Specialist",
     company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "uchechukwu@pathway.ng",
+    website: "https://pathwayadvisorsng.com",
+    email: "victor@pathway.ng",
     phone: "2349039024299",
-    photo: "images/Uchechukwu.png",
+    photo: "images/victor.png",
     vcf: "uchechukwu.vcf"
   },
 

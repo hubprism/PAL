@@ -4,12 +4,12 @@ const staff = {
   victor: {
     name: "Victor Akwukwuma",
     position: "IT Support Specialist",
-    company: "Pathway Holdings Limited",
+    company: "Pathway Advisors Limited",
     website: "https://pathwayadvisorsng.com",
     email: "victor@pathway.ng",
-    phone: "2349039024299",
+    phone: "234",
     photo: "images/victor.png",
-    vcf: "uchechukwu.vcf"
+    vcf: "victor.vcf"
   },
 
   taiwo: {

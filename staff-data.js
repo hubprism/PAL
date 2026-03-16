@@ -13,16 +13,15 @@ const staff = {
   },
 
   gloria: {
-  name: "Gloria Adelaiye",
-  position: "Investment Banking Trainee",
-  company: "Pathway Advisors Limited",
-  website: "https://pathwayadvisorsng.com",
-  email: "gloria@pathway.ng",
-  phone: "23489076133180",
-  photo: "images/gloria.png",
-  vcf: "gloria.vcf"
-},
-
+    name: "Gloria Adelaiye",
+    position: "Investment Banking Trainee",
+    company: "Pathway Advisors Limited",
+    website: "https://pathwayadvisorsng.com",
+    email: "gloria@pathway.ng",
+    phone: "23489076133180",
+    photo: "images/gloria.png",
+    vcf: "gloria.vcf"
+  },
 
   dolapof: {
     name: "Dolapo Faleke",
@@ -48,7 +47,7 @@ const staff = {
 
   deborah: {
     name: "Deborah Osuji",
-    position: "Investment Banking Trainee,
+    position: "Investment Banking Trainee",
     company: "Pathway Advisors Limited",
     website: "https://pathwayadvisorsng.com",
     email: "deborah@pathway.ng",
@@ -132,7 +131,7 @@ const staff = {
     phone: "2348039210599",
     photo: "images/dolapo.png",
     vcf: "dolapo.vcf"
-    },
+  },
 
   rihanot: {
     name: "Rihanot Ojo-Oba",
@@ -143,9 +142,9 @@ const staff = {
     phone: "2348089009319",
     photo: "images/rihanot.png",
     vcf: "rihanot.vcf"
-    },
+  },
 
-    onyinye: {
+  onyinye: {
     name: "Onyinye Ezulofor",
     position: "Corporate Communication Specialist",
     company: "Pathway Holdings Limited",
@@ -154,9 +153,9 @@ const staff = {
     phone: "2348107317272",
     photo: "images/onyinye.png",
     vcf: "onyinye.vcf"
-    },
+  },
 
- kayode: {
+  kayode: {
     name: "Kayode Ajibade",
     position: "Senior Account Officer",
     company: "Pathway Holdings Limited",
@@ -165,9 +164,9 @@ const staff = {
     phone: "237066233089",
     photo: "images/kayode.png",
     vcf: "kayode.vcf"
-    },
+  },
 
-comfort: {
+  comfort: {
     name: "Comfort Ekinne",
     position: "Account Officer",
     company: "Pathway Holdings Limited",
@@ -176,21 +175,20 @@ comfort: {
     phone: "2378152277123",
     photo: "images/comfort.png",
     vcf: "comfort.vcf"
-    },
+  },
 
- ayomidotun: {
-  name: "Ayomidotun Igbekele",
-  position: "Legal & Company Secretary",
-  company: "Pathway Holdings Limited",
-  website: "https://pathway.ng",
-  email: "ayomidotun@pathway.ng",
-  phone: "2348067080219",
-  photo: "images/ayomidotun.png",
-  vcf: "ayomidotun.vcf"
-},
+  ayomidotun: {
+    name: "Ayomidotun Igbekele",
+    position: "Legal & Company Secretary",
+    company: "Pathway Holdings Limited",
+    website: "https://pathway.ng",
+    email: "ayomidotun@pathway.ng",
+    phone: "2348067080219",
+    photo: "images/ayomidotun.png",
+    vcf: "ayomidotun.vcf"
+  },
 
-
-   adenike: {
+  adenike: {
     name: "Adenike Yusuf",
     position: "Corporate Communications LEAD",
     company: "Pathway Holdings Limited",

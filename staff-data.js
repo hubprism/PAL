@@ -27,7 +27,7 @@ const staff = {
   dolapof: {
     name: "Dolapo Faleke",
     position: "Investment Banking Trainee",
-    company: "Pathway Holdings Limited",
+    company: "Pathway Advisors Limited",
     website: "https://pathwayadvisorsng.com",
     email: "dolapofaleke@pathway.ng",
     phone: "2348152917740",
@@ -35,15 +35,15 @@ const staff = {
     vcf: "dolapof.vcf"
   },
 
-  paul: {
-    name: "Paul Ojo",
-    position: "IT Support Specialist",
-    company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "paul@pathway.ng",
-    phone: "2349166816081",
-    photo: "images/paul.png",
-    vcf: "paul.vcf"
+  babara: {
+    name: "Babara Ndubuisi",
+    position: "Investment Banking Trainee",
+    company: "Pathway Advisors Limited",
+    website: "https://pathwayadvisorsng.com",
+    email: "babara@pathway.ng",
+    phone: "2348086523180",
+    photo: "images/babara.png",
+    vcf: "babara.vcf"
   },
 
   blessing: {

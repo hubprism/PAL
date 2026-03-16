@@ -7,7 +7,7 @@ const staff = {
     company: "Pathway Advisors Limited",
     website: "https://pathwayadvisorsng.com",
     email: "victor@pathway.ng",
-    phone: "234",
+    phone: "2347038846340",
     photo: "images/victor.png",
     vcf: "victor.vcf"
   },
@@ -24,15 +24,15 @@ const staff = {
 },
 
 
-  ajibola: {
-    name: "Ajibola Adekoya",
-    position: "IT Support Specialist",
+  dolapof: {
+    name: "Dolapo Faleke",
+    position: "Investment Banking Trainee",
     company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "ajibola@pathway.ng",
-    phone: "2347032028517",
-    photo: "images/ajibola.png",
-    vcf: "ajibola.vcf"
+    website: "https://pathwayadvisorsng.com",
+    email: "dolapofaleke@pathway.ng",
+    phone: "2348152917740",
+    photo: "images/dolapof.png",
+    vcf: "dolapof.vcf"
   },
 
   paul: {

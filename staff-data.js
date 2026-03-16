@@ -100,26 +100,15 @@ const staff = {
     vcf: "opeyemi.vcf"
   },
 
-  kunle: {
-    name: "Kunle Akanbi",
-    position: "Admin Officer",
-    company: "Pathway Holdings Limited",
-    website: "https://pathway.ng",
-    email: "kunle@pathway.ng",
-    phone: "2347062894636",
-    photo: "images/kunle.png",
-    vcf: "kunle.vcf"
-  },
-
-  adekunle: {
-    name: "Adekunle Alade",
-    position: "GCEO",
-    company: "Pathway Holdings Limited",
+   raymond: {
+    name: "Raymond Olusola",
+    position: "Account Officer",
+    company: "Pathway Advisors Limited",
     website: "https://pathwayadvisorsng.com",
-    email: "adekunle@pathwayadvisorsng.com",
-    phone: "2347069721470",
-    photo: "images/adekunle.png",
-    vcf: "adekunle.vcf"
+    email: "raymond@pathway.ng",
+    phone: "2348062292279",
+    photo: "images/raymond.png",
+    vcf: "raymond.vcf"
   },
 
   dolapo: {

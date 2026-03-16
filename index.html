@@ -35,7 +35,7 @@
 
     .header{
       height:160px;
-      background:url("images/background.png") center/cover no-repeat;
+      background:url("./images/background.png") center/cover no-repeat;
       position:relative;
     }
 
@@ -197,11 +197,11 @@
 
         <div class="row-buttons">
           <a class="btn whatsapp" id="whatsappBtn" href="#" target="_blank" rel="noopener noreferrer">
-            <img src="images/whatsapp.png" class="icon-img" alt="WhatsApp" />
+            <img src="./images/whatsapp.png" class="icon-img" alt="WhatsApp" />
           </a>
 
           <button class="btn share" id="shareBtn" type="button">
-            <img src="images/share.png" class="icon-img" alt="Share" />
+            <img src="./images/share.png" class="icon-img" alt="Share" />
           </button>
         </div>
 
@@ -210,7 +210,7 @@
     </div>
   </div>
 
-  <script src="./staff-data.js?v=29"></script>
+  <script src="./staff-data.js?v=30"></script>
 
   <script>
     let currentPerson = null;
@@ -219,18 +219,11 @@
       const urlParams = new URLSearchParams(window.location.search);
       let name = urlParams.get("name");
 
-      if (!name) {
-        const pathParts = window.location.pathname.split("/").filter(Boolean);
-        if (pathParts.length > 0) {
-          name = pathParts[0];
-        }
-      }
-
       if (name) {
-        name = name.toLowerCase().trim();
+        return name.toLowerCase().trim();
       }
 
-      return name;
+      return null;
     }
 
     function cleanPhone(phone) {
@@ -252,7 +245,7 @@
       if (!name) {
         showNotFound("No staff name was found in the link.");
         return;
-      }git
+      }
 
       if (typeof staff === "undefined") {
         showNotFound("staff-data.js did not load.");
